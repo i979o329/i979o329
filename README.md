@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **@i979o329**
 - 👀 I’m crazy about **PythON**
 - 🌱 I’m always learning somthing, including but not limited to **Python, DevOps, DataScience.**
-- 💞️ I’m looking (to collaborate on your suggestions) **if** (I am intrested enough) **else** (I am NOT intrested enough)
+- 💞️ I’m looking (to collaborate on your suggestions) **if** (I am intrested enough) **else** (I just keep Learning)
 - 📫 'The ways that folks can reach me are' in **[i979o329@gmail.com , https://t.me/mojtaba191]** list
 - Follow me through **[Linkedin Profile](https://www.linkedin.com/in/i979o329/)** or **[#RecaPy](https://www.linkedin.com/search/results/all/?keywords=%23RecaPy&origin=GLOBAL_SEARCH_HEADER&sid=6pi)** if you'd like.
  >Currently holding a **SPECIALIZATION CERTIFICATE** authorised by **Michigan University** and offered through **Coursera** titled **"Python for Everybody"**
